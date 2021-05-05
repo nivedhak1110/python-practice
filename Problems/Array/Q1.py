@@ -16,4 +16,4 @@ if __name__== '__main__':
     find_pair(array,sum)
     
 #output
-found pair with given sum (7, 3)
+#found pair with given sum (7, 3)
