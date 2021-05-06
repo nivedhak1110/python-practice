@@ -2,7 +2,7 @@
 #Given an unsorted array
 def find_pair(array,sum):
     for i in range(len(array)-1):
-        for j in range(i+1,len(array)-1):
+        for j in range(i+1,len(array)):
             
             if array[i]+array[j]==sum:
                 print("found pair with given sum",(array[i],array[j]))
