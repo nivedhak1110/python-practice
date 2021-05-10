@@ -30,4 +30,11 @@ enter a number:4
 factorial of 4 is 24
 enter a number:3
 factorial of 3 is 6
+
+enter a number:-2
+factorial doesnot exist for negative numbers
+
+enter a number:0
+factorial of 0 is 1
+
 """
