@@ -47,4 +47,11 @@ Happy number
 *****
 enter a number:445
 Unhappy number
+*****
+enter a number:19
+82
+68
+100
+1
+Happy number
 """
