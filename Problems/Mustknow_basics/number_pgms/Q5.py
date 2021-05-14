@@ -17,3 +17,14 @@ if temp%sum==0:
     print("{temp} is a Harshad number".format(temp=temp))
 else:
     print("{temp} is Not a harshad number".format(temp=temp))
+"""
+Output:
+****
+Enter a number:24
+6
+24 is a Harshad number
+****
+Enter a number:25
+7
+25 is Not a harshad number
+"""
