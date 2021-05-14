@@ -16,5 +16,35 @@ Output: True
 1^2 + 0^2 + 0^2 = 1
 As we reached to 1, 19 is a Happy Number.
 """
-num=int(input("enter a number:"))
-temp=num
+def happy_number(num):
+    
+    sum=0
+    while num>0:
+        rem=num%10
+        sum=sum+(rem**2)
+        num=num//10
+    print(sum)
+    result=sum
+    return result
+    
+if __name__=='__main__':
+    num=int(input("enter a number:"))
+    result=num
+    while result!=1 and result!=4:
+        result=happy_number(result)
+    if result==1:
+        print("Happy number")
+        
+    elif result==4:
+        print("Unhappy number")
+"""
+Output:
+enter a number:446
+#68
+#100
+#1
+Happy number
+*****
+enter a number:445
+Unhappy number
+"""
