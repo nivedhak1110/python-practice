@@ -22,7 +22,7 @@ print("2.Using join() method concatenated string {con2}".format(con2=con2))
 #3.Using format method
 print("3.Using format() method concatenated string {str1}{str2}".format(str1=str1,str2=str2))
 #**************
-#4.Using % method
+#4.Using % method-->We can use % operator for string formatting, it can also be used for string concatenation
 print("4.Using modulo operator method concatenated string % s % s" % (str1,str2))  
 """
 Output:
