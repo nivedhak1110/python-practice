@@ -1,4 +1,18 @@
 """
 Q-1
-How to create a dictionary in Python
+create a dictionary
+"""
+#method1
+student={
+    "ram":83,
+    "raj":56,
+    "ravi":90
+}
+print(type(student))
+print(student)
+"""
+Output:
+<class 'dict'>
+{'ram': 83, 'raj': 56, 'ravi': 90}
+
 """
