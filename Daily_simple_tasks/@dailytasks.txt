@@ -13,4 +13,5 @@ june4
 4. Fibonacci - recursive
 5. Factorial 
 6 pyramid * print .
+7.Factorial using recursion
 ********
