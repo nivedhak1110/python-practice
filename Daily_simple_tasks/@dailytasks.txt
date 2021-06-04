@@ -1,0 +1,16 @@
+june3
+
+1. Swap number
+2. Pollindrom number
+3. Pollindrom string 
+
+*******
+
+june4
+1. Pollindrom number - recursive
+2. Pollindrom string - recursive
+3. Fibonacci
+4. Fibonacci - recursive
+5. Factorial 
+6 pyramid * print .
+********
