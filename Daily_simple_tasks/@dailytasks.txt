@@ -1,5 +1,5 @@
 june3
-
+------
 1. Swap number
 2. Pollindrom number
 3. Pollindrom string 
@@ -7,6 +7,7 @@ june3
 *******
 
 june4
+------
 1. Pollindrom number - recursive
 2. Pollindrom string - recursive
 3. Fibonacci
@@ -14,4 +15,12 @@ june4
 5. Factorial 
 6 pyramid * print .
 7.Factorial using recursion
+********
+
+june 5
+--------
+1. Check arm strong number or not
+2.armstrong numbers in between a range
+3. Check prime number or not
+4.prime numbers in between a range
 ********
