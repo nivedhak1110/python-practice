@@ -29,10 +29,11 @@ june 5
 june 7
 -------
 1. Python Program to find largest element in an array
-2. Python Program for array rotation.
+2. Python Program to find least element in an array
+3. Python Program for array rotation.
 A[1,4,5]
 Output
 A[5,4, 1]]
-3. Python Program to Split the array and add the first part to the end
+4. Python Program to Split the array and add the first part to the end
 ********
 
