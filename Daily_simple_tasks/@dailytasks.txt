@@ -46,6 +46,8 @@ Input : [12, 35, 9, 56, 24]
 Output : [24, 35, 9, 56, 12]
 
 3. Python | Ways to check if element exists in list
+        3.1 linear search
+        3.2 Binary search
 
 4.1 Different ways to clear a list in Python
 
