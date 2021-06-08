@@ -36,4 +36,21 @@ Output
 A[5,4, 1]]
 4. Python Program to Split the array and add the first part to the end
 ********
+June 8
+-------
+1. Sort array of numbers. Any algorithm
 
+2. Python program to interchange first and last elements in a list
+
+Input : [12, 35, 9, 56, 24]
+Output : [24, 35, 9, 56, 12]
+
+3. Python | Ways to check if element exists in list
+
+4.1 Different ways to clear a list in Python
+
+4.2 Python | Reversing a List (use built-in, slicing method)
+
+5. Python program to find second largest number in a list
+
+*******
