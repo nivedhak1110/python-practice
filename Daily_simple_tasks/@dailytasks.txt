@@ -57,3 +57,22 @@ Output : [24, 35, 9, 56, 12]
 6.Python program to find second largest number in a list(without using sorting)
 
 *******
+june 9
+-------
+1. Python | Check if a Substring is Present in a Given String
+
+2. Eliminating repeated lines from a file using Python
+
+3. Create palindrome file from the given file. 
+
+Input - file1 contains
+Amma
+Appa
+Tokyo
+India
+Mama 
+
+Output file.
+Amma
+Appa
+****
