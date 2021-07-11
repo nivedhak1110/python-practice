@@ -33,3 +33,22 @@ factorial of 5 is 120
 enter a number:6
 factorial of 6 is 720
 """
+"""
+7.Factorial using recursion
+4!=4*3*2*1=24
+"""
+def factorial(n,fact):
+    if n==0:
+        return fact
+    else:
+        fact=fact*n
+        n=n-1
+        return factorial(n,fact)
+if __name__=='__main__':
+    n=int(input("enter a number:"))
+    fact=1
+    factorial=factorial(n,fact)
+    if (n<0):
+        print("enter a positive number")
+    else:
+        print("fact:",factorial)
